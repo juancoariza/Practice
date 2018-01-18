@@ -1,0 +1,2 @@
+Use github to store text or code
+Also importing data onto github
